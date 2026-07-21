@@ -5,7 +5,7 @@
 )
 ![Made With](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
 
-
+![URL-phishing-Detector](assets/Banner.png)
 ## About the Project
 
 Tired of getting scammed by malicious URL, URL-phishing-Detector is simple just pass the URL your are anxious about and the model will replay to you with either that URl is legit or phishing
