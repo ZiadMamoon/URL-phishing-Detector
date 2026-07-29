@@ -21,7 +21,38 @@ Tired of getting scammed by malicious URL, URL-phishing-Detector is simple just 
 - [License](#license)
 - [Contact](#contact)
 
-# ..
+## 📊 Dashboard  
+![URL-phishing-Detector](assets/Dashboard.png)
+
+## 🚀 Installation & Usage (For Users)
+If you simply want to run the application and scan URLs on your local machine, follow these steps:
+
+**1. Clone the repository:**
+
+```bash
+git clone https://github.com/your-username/Phishing-URL-Detector.git
+cd Phishing-URL-Detector
+```
+
+**2. Install the required dependencies:**
+
+```bash
+pip install -r requirements.txt
+```
+
+**3. Train the Models:**
+Before running the UI, execute the training pipeline to generate the required .pkl files based on the dataset:
+
+```bash
+python test_compare.py
+```
+
+**4. Run the local development server:**
+
+```bash
+streamlit run app.py
+```
+
 
 ## Contributing
 
